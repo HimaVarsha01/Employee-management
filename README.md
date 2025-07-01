@@ -80,6 +80,7 @@ In src/main/resources/application.properties, set your MongoDB URI:
 # properties
 
 spring.data.mongodb.uri=mongodb://localhost:27017/employeedb
+
 Replace localhost or employeedb with your actual DB connection if needed.
 
 ## Unit Testing
